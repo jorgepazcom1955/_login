@@ -50,17 +50,18 @@ section#login > div#imagem {
 
 section#login > div#formulario {
   display: block;
-  padding: 10px;
 }
 
 div#formulario > h1 {
   text-align: center;
   margin-bottom: 10px;
-  margin-top: 20px;
+  
+  
 }
 
 div#formulario > p {
   font-size: 1em;
+  padding: 10px;
 }
 
 form > div.campo {
