@@ -43,7 +43,7 @@ section#login > div#imagem {
   background: #5f2c87 url(../imagem/foto.jpg) no-repeat;
   background-size: cover;
   height: 200px;
-  background-position: left bottom;
+  background-position: left bottom 45%;
 }
 
 section#login > div#formulario {
