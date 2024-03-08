@@ -113,5 +113,8 @@ form > a.botao:hover {
 
 form > a.botao > i {
   font-size: 0.8em;
-  
+}
+
+form > div.campo > i {
+  margin-left: 5px;
 }
